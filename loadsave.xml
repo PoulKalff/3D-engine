@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<catalog>
+	<object id="Cylinder">
+		<vertice>
+			<x>-2.10982</x>
+			<y>-1.330738</y>
+			<z>3.034132</z>
+		</vertice>
+		<vertice>
+			<x>-3.10982</x>
+			<y>-1.330738</y>
+			<z>3.034132</z>
+		</vertice>
+		<vertice>
+			<x>-4.10982</x>
+			<y>-1.330738</y>
+			<z>3.034132</z>
+		</vertice>
+		<vertice>
+			<x>-5.10982</x>
+			<y>-1.330738</y>
+			<z>3.034132</z>
+		</vertice>
+		<vertice>
+			<x>-6.10982</x>
+			<y>-1.330738</y>
+			<z>3.034132</z>
+		</vertice>
+		<vertice>
+			<x>-7.10982</x>
+			<y>-1.330738</y>
+			<z>3.034132</z>
+		</vertice>
+		<face>
+			<node1>1</node1>
+			<node2>2</node2>
+			<node3>3</node3>
+			<node4>4</node4>
+		</face>
+		<face>
+			<node1>3</node1>
+			<node2>4</node2>
+			<node3>5</node3>
+			<node4>6</node4>
+		</face>
+	</object>
+	<object id="TestObject">
+		<vertice>
+			<x>-2.10982</x>
+			<y>-1.330738</y>
+			<z>3.034132</z>
+		</vertice>
+		<vertice>
+			<x>-22.10982</x>
+			<y>-1.330738</y>
+			<z>3.034132</z>
+		</vertice>
+	</object>
+</catalog>
